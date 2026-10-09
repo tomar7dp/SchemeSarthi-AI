@@ -1,0 +1,24 @@
+Per-scheme evaluation (test set)
+============================================================
+Prime Minister's Employment Generation Programme (  P=1.00  R=1.00  F1=1.00  support=276
+Stand-Up India                                      P=0.97  R=1.00  F1=0.99  support=107
+National SC/ST Hub - Credit Linked Capital Subsidy  P=1.00  R=1.00  F1=1.00  support=216
+Credit Enhancement Guarantee Scheme for Scheduled   P=1.00  R=1.00  F1=1.00  support=98
+Scheme for Assistance to MSME - SC/ST Component (G  P=1.00  R=0.89  F1=0.94  support=9
+Mahila Udyam Nidhi (MUN)                            P=1.00  R=1.00  F1=1.00  support=35
+NHFDC Loan Scheme                                   P=0.00  R=0.00  F1=0.00  support=4
+Deendayal Antyodaya Yojana - National Rural Liveli  P=1.00  R=1.00  F1=1.00  support=421
+Pradhan Mantri MUDRA Yojana (PMMY)                  P=1.00  R=1.00  F1=1.00  support=34
+PM Vishwakarma Yojana                               P=1.00  R=1.00  F1=1.00  support=250
+PM Street Vendor's AtmaNirbhar Nidhi (PM SVANidhi)  P=1.00  R=1.00  F1=1.00  support=139
+Seekho Aur Kamao (Learn and Earn)                   P=1.00  R=0.99  F1=1.00  support=106
+Startup India Seed Fund Scheme (SISFS)              P=1.00  R=1.00  F1=1.00  support=139
+PMEGP Loan and Subsidy for Ex-Servicemen Self Help  P=1.00  R=1.00  F1=1.00  support=113
+NEDFi Opportunity Scheme for Small Enterprises (No  P=1.00  R=0.83  F1=0.91  support=41
+Pradhan Mantri Matsya Sampada Yojana (PMMSY)        P=1.00  R=1.00  F1=1.00  support=138
+NBCFDC Term Loan Scheme (Backward Classes)          P=1.00  R=1.00  F1=1.00  support=37
+Chief Minister Employment Generation Programme (CM  P=0.00  R=0.00  F1=0.00  support=2
+New Entrepreneur cum Enterprise Development Scheme  P=0.00  R=0.00  F1=0.00  support=1
+
+============================================================
+Macro-average  P=0.841  R=0.827  F1=0.833
